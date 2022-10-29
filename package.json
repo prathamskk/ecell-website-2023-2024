@@ -1,0 +1,24 @@
+{
+  "name": "ecell-website-2023-2024",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel ./src/index.html",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prathamskk/ecell-website-2023-2024.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prathamskk/ecell-website-2023-2024/issues"
+  },
+  "homepage": "https://github.com/prathamskk/ecell-website-2023-2024#readme",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
